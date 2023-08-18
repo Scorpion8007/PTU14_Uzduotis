@@ -1,0 +1,3 @@
+"""
+Pridetas testas 3
+"""

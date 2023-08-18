@@ -17,3 +17,6 @@ if __name__ == '__main__':
 """
 Testas5
 """
+"""
+Testas7
+"""
